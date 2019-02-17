@@ -1,5 +1,5 @@
 
-window.onload = function(){
+
 var pointer = document.getElementById("point");
 
 function getXPositionOfElement() {
@@ -14,4 +14,3 @@ function getYPositionOfElement() {
     getXPositionOfElement();
     getYPositionOfElement();
 
-}
