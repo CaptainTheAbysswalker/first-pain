@@ -3,8 +3,6 @@
 #square {
   position: relative;
   background-color: #39CCCC;
-  width: 400px;
-  height: 400px;
   transform: translate(-50%, -50%);
   
   top: 50%; 
@@ -13,8 +11,7 @@
 
 #circle {
     position: absolute;
-    width: 15px;
-    height: 15px;
+
     border-radius: 50%;
 
     border: 2px solid #001f3f;
